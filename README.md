@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋, I'm Stefano
+
+- 🔭 I’m a Junior Front-end Developer ...
 
 <!--
 **ste-giordano95/ste-giordano95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
