@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi there 👋, I'm Stefano</h1>
 
-  I’m a Junior Front-end Developer 💻 
+  I’m a Developer 💻 
 
   <details open>
   <summary>📫 How to reach me:</summary>
